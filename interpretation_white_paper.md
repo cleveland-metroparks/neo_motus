@@ -2,27 +2,15 @@
 
 ## NEOH MOTUS network
 
-Our local network began with a broad-based partnership focussed on reducing the effect of bird-building collisions  
-on migratory bird populations. It has been estimated that as many as 
-[one billion birds die in collisions with glass every year](https://abcbirds.org/program/glass-collisions/). 
-Many of these collisions occur as birds migrate at night, when they are attracted to buildings that are lit up.  
+Our local network began with a broad-based partnership focussed on reducing the effect of bird-building collisions on migratory bird populations. It has been estimated that as many as [one billion birds die in collisions with glass every year](https://abcbirds.org/program/glass-collisions/).  Many of these collisions occur as birds migrate at night, when they are attracted to buildings that are lit up.  
 
-Every year during spring and fall migration, birds strike buildings at night in Cleveland.  
-Most of these birds die from their injuries.  Lights Out Cleveland was formed to reduce the numbers of bird-building collisions.
-The group has enrolled 25 local building owners in a program to encourage them to turn their lights off at night during migration 
-seasons.  The group has a large number of volunteers who have been collecting the birds that die for scientific research.  They take 
-any injurred birds that are still alive to a local wildlife rehabilitation center.  Staff at the center have been successfully 
-rehabilitating some of the birds.  They have also started collaborating with bird researchers to measure the success of their 
-rehabilitation programs.
+Every year during spring and fall migration, birds strike buildings at night in Cleveland.  Most of these birds die from their injuries.  Lights Out Cleveland was formed to reduce the numbers of bird-building collisions.  The group has enrolled 25 local building owners in a program to encourage them to turn their lights off at night during migration seasons.  The group has a large number of volunteers who have been collecting the birds that die for scientific research.  They take any injurred birds that are still alive to a local wildlife rehabilitation center.  Staff at the center have been successfully rehabilitating some of the birds.  They have also started collaborating with bird researchers to measure the success of their rehabilitation programs.
 
-In order to track rehabilitated birds and to compare their movements to unaffected birds, team members have been putting radio transmitters on 
-some of the rehabilitated birds to track their movements after they are released from the rehab facility.  For comparison, an 
-uninjured bird of the same species is also tagged with a radio transmitter at a nearby bird banding station.  
-This work is coordinated by researchers at the Powdermill Nature Reserve.  They have also been providing the tags and tracking equipment.
+In order to track rehabilitated birds and to compare their movements to unaffected birds, team members have been putting radio transmitters on some of the rehabilitated birds to track their movements after they are released from the rehab facility.  For comparison, an uninjured bird of the same species is also tagged with a radio transmitter at a nearby bird banding station.  This work is coordinated by researchers at the Powdermill Nature Reserve.  They have also been providing the tags and tracking equipment.
 
-This is where the MOTUS tower tracking system comes in.
+To track the rehabilitated birds as they migrate, we need a massive network of radio receivers across the spanning North and South America. This is where the MOTUS tower tracking system comes in.
 
-![MOTUS station network](MOTUS_network.png)
+![MOTUS station network](MOTUS_network_closeup.png)
 
 ## What is MOTUS.org
 
