@@ -13,6 +13,9 @@ To track the rehabilitated birds as they migrate, we need a massive network of r
 ![MOTUS station network](MOTUS_network_closeup.png)
 The image above shows The network in the Cleveland region.  You can see the area covered by two recievers maintained by Cleveland Metroparks in the middle of the image.  We hope to add two more recievers to this local network by November 2020.
 
+![CLNP MOTUS receiver](motus_clnp_antennas.JPG)
+This image shows antennas for one of the MOTUS receivers at the Cleveland Lakefront Nature Preserve that Cleveland Metroparks maintains.  This reciever was funded by a grant from the Foley Fund in 2019.
+
 ## What is MOTUS.org
 
 From the MOTUS website: "The Motus Wildlife Tracking System is a collaborative research network that uses 
