@@ -35,13 +35,13 @@ Now that our local MOTUS network is running and plans for expansion are moving f
 ### Possible interpretive components
 
 * 4 color interpretive signs for placement at local MOTUS tower sites
- * $????
+  * $????
 * Interactive display showing latest birds detected by out network
- * $????
+  * $????
 * Museum exhibit with interactive elements
- * $????
+  * $????
 * ????
- * $????
+  * $????
 
 ## Current partners
 
