@@ -15,7 +15,8 @@ The image above shows The network in the Cleveland region.  You can see the area
 
 
 <img src="motus_clnp_antennas.JPG" alt="CLNP MOTUS receiver" width="300"/><img src="CLNP_MOTUS_sensor.JPG" alt="CLNP MOTUS sensor" width="300"/>
-These images show antennas and sensor computer for one of the MOTUS receiver at the Cleveland Lakefront Nature Preserve that Cleveland Metroparks maintains.  This reciever was funded by a grant from the Foley Fund in 2019.
+
+These images show antennas and sensor computer for the MOTUS receiver at the Cleveland Lakefront Nature Preserve that Cleveland Metroparks maintains.  This reciever was funded by a grant from the Foley Fund in 2019.
 
 ## What is MOTUS.org
 
