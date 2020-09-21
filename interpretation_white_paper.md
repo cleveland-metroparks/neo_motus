@@ -31,9 +31,13 @@ Now that our local MOTUS network is running and plans for expansion are moving f
 ### Possible interpretive components
 
 * 4 color interpretive signs for placement at local MOTUS tower sites
+ * $????
 * Interactive display showing latest birds detected by out network
+ * $????
 * Museum exhibit with interactive elements
+ * $????
 * ????
+ * $????
 
 ## Current partners
 
@@ -41,6 +45,7 @@ Now that our local MOTUS network is running and plans for expansion are moving f
   * [Cleveland Museum of Natural History](https://www.cmnh.org/)
     * Coordinates building lights out program
     * Conducts research on birds that die
+    * Will maintain two future MOTUS receivers
   * [Lake Erie Nature & Science Center](https://www.lensc.org/)
     * Manages the bird rehabilitation program
 * [Powdermill Nature Reserve](https://carnegiemnh.org/visit-powdermill/)
@@ -49,3 +54,4 @@ Now that our local MOTUS network is running and plans for expansion are moving f
 * [Ohio Bird Conservation Network](https://obcinet.org/)
 * [Cleveland Metroparks](https://clevelandmetroparks.com)
   * [Foley Fund?]()
+  * Manages local two existing MOTUS receivers
