@@ -11,6 +11,7 @@ In order to track rehabilitated birds and to compare their movements to unaffect
 To track the rehabilitated birds as they migrate, we need a massive network of radio receivers across the spanning North and South America. This is where the MOTUS tower tracking system comes in.
 
 ![MOTUS station network](MOTUS_network_closeup.png)
+The image above shows The network in the Cleveland region.  You can see the area covered by two recievers maintained by Cleveland Metroparks in the middle of the image.  We hope to add two more recievers to this local network by November 2020.
 
 ## What is MOTUS.org
 
@@ -18,6 +19,21 @@ From the MOTUS website: "The Motus Wildlife Tracking System is a collaborative r
 coordinated automated radio telemetry arrays to study movements of small animals."
 
 Details about MOTUS can be found here:  https://motus.org/
+
+## Need for interpretive materials
+
+Now that our local MOTUS network is running and plans for expansion are moving forward, we need to develop materials to explain the project to the public. We feel this involves developing signs and possibly interactive displays that focus on three things:
+
+ * Bird migrations
+ * Lights Out Cleveland
+ * MOTUS network
+
+### Possible interpretive components
+
+* 4 color interpretive signs for placement at local MOTUS tower sites
+* Interactive display showing latest birds detected by out network
+* Museum exhibit with interactive elements
+* ????
 
 ## Current partners
 
