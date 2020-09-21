@@ -22,6 +22,8 @@ This work is coordinated by researchers at the Powdermill Nature Reserve.  They 
 
 This is where the MOTUS tower tracking system comes in.
 
+![MOTUS station network](MOTUS_network.png)
+
 ## What is MOTUS.org
 
 From the MOTUS website: "The Motus Wildlife Tracking System is a collaborative research network that uses 
