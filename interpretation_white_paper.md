@@ -10,11 +10,11 @@ In order to track rehabilitated birds and to compare their movements to unaffect
 
 To track the rehabilitated birds as they migrate, we need a massive network of radio receivers across the spanning North and South America. This is where the MOTUS tower tracking system comes in.
 
-<img src="MOTUS_network_closeup.png" alt="MOTUS station network" width="5in"/>
+<img src="MOTUS_network_closeup.png" alt="MOTUS station network" width="500"/>
 The image above shows The network in the Cleveland region.  You can see the area covered by two recievers maintained by Cleveland Metroparks in the middle of the image.  We hope to add two more recievers to this local network by November 2020.
 
 
-<img src="motus_clnp_antennas.JPG" alt="CLNP MOTUS receiver" width="4in"/><img src="CLNP_MOTUS_sensor.JPG" alt="CLNP MOTUS sensor" width="4in"/>
+<img src="motus_clnp_antennas.JPG" alt="CLNP MOTUS receiver" width="500"/><img src="CLNP_MOTUS_sensor.JPG" alt="CLNP MOTUS sensor" width="500"/>
 These images show antennas and sensor computer for one of the MOTUS receiver at the Cleveland Lakefront Nature Preserve that Cleveland Metroparks maintains.  This reciever was funded by a grant from the Foley Fund in 2019.
 
 ## What is MOTUS.org
