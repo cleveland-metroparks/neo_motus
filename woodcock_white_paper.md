@@ -34,9 +34,9 @@ Since we have no existing staff to focus on this aspect of the project we would 
 ### Needs for studying rehabilitation success
 
 * 10 tags
-  * $???
+  * $2,450 ($220 each + $25 registration fee each)
 * Receiver and antenna for traking birds on the ground
-  * $???
+  * $2,400 ($2,100 for receiver + 300 for yagi antenna and cables)
 * Stipend for graduate student
   * $???
 
