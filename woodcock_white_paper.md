@@ -8,10 +8,10 @@ Every year during spring and fall migration, birds strike buildings at night in 
 
 In order to track rehabilitated birds and to compare their movements to unaffected birds, team members have been putting radio transmitters on some of the rehabilitated birds to track their movements after they are released from the rehab facility.  For comparison, an uninjured bird of the same species is also tagged with a radio transmitter at a nearby bird banding station.  This work is coordinated by researchers at the Powdermill Nature Reserve.  They have also been providing the tags and tracking equipment.
 
-To track the rehabilitated birds as they migrate, we need a massive network of radio receivers across the spanning North and South America. This is where the MOTUS tower tracking system comes in.
+To track the rehabilitated birds as they migrate, we need a massive network of radio receivers spanning North and South America. This is where the MOTUS tower tracking system comes in.
 
-<img src="images/MOTUS_network_closeup.png" alt="MOTUS station network" width="500"/>
-The image above shows The network in the Cleveland region.  You can see the area covered by two recievers maintained by Cleveland Metroparks in the middle of the image.  We hope to add two more recievers to this local network by November 2020.
+<img src="images/NEO_Motus_Map_11_2020.png" alt="NEO MOTUS station network" width="500"/>
+The image above shows the MOTUS network in the Cleveland region.  You can see the area covered by two recievers maintained by Cleveland Metroparks and one on the roof of the Cleveland Museum of Natural History in the middle of the image.  We also recently added one on Kelleys Island in Lake Erie in October 2020.
 
 
 <img src="images/motus_clnp_antennas.jpg" alt="CLNP MOTUS receiver" width="300"/><img src="images/CLNP_MOTUS_sensor.jpg" alt="CLNP MOTUS sensor" width="300"/>
